@@ -1,0 +1,10 @@
+C++ is a powerful, general-purpose programming language known for its efficiency and versatility.
+Developed by Bjarne Stroustrup in 1979,
+C++ is an extension of the C programming language with added features such as classes and objects,
+which support object-oriented programming (OOP) concepts.
+C++ is widely used in software development for creating high-performance applications,
+system software, game development, and more.
+It offers a rich standard library that provides functionality for various tasks,
+making it a preferred choice for complex projects.
+C++'s ability to directly manipulate memory and its support for both procedural and OOP paradigms
+make it a robust language for diverse programming needs.
